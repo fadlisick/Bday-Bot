@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "get-repository-url": "^2.0.0",
+    "search-index": "github:fergiemcdowall/search-index"
+  }
+}
